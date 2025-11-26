@@ -1,11 +1,11 @@
-## MajorProjectPhase1
+# MajorProjectPhase1
 
-# Create Virtual Env.
+## Create Virtual Env.
 python -m venv venv
 
-# Activate Using
+## Activate Using
 ./venv/Scripts/activate (Windows)
 
-# Install required libs by
+## Install required libs by
 (After activating the virtual env)
 pip install -r ./requirements.txt 
