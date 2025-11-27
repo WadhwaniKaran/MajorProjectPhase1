@@ -11,7 +11,6 @@ MajorProjectPhase1/
 ├── requirements.txt
 ├── README.md
 ├── runs/
-└── additional project files
 ```
 
 ## 1. Create Virtual Environment
@@ -26,7 +25,7 @@ python -m venv venv
 
 ### Windows:
 ```
-.env\Scriptsctivate
+.\venv\Scripts\activate
 ```
 
 ### Linux / macOS:
