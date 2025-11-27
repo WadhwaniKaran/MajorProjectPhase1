@@ -25,7 +25,7 @@ python -m venv venv
 
 ### Windows:
 ```
-.\venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 ### Linux / macOS:
